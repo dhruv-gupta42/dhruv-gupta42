@@ -1,6 +1,6 @@
-### 👋 Hi there, I'm Dhruv Gupta!
+# 👋 Hi there, I'm Dhruv Gupta!
 
-# 💫 About Me:
+## 💫 About Me:
 I'm an aspiring developer and lifelong learner who enjoys building practical, creative, and impactful projects using a blend of programming, data, and logic.<br><br>### 🚀 What I’m Working On:<br>- 🔍 Learning **Machine Learning** & **Web Development**<br>- 💻 Practicing **Python**, **JavaScript**, and **C++**<br>- 🐧 Exploring **Linux** and command-line tools<br><br>### 💡 Things I Know:<br>- Languages: `Python`, `JavaScript`, `C++`, `HTML/CSS`<br>- Tools: `Git`, `Linux Terminal`, `VS Code`<br>- Web Dev: Front End and Back End<br><br>### 📚 Currently Learning:<br>- Advanced Data Analysis and Visualization<br>- Model Building and Evaluation using Scikit-Learn<br>- GitHub Actions & Project Deployment<br><br>🛠️ *“Build it. Break it. Fix it. Learn from it.”*
 
 
